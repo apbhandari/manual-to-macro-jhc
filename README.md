@@ -4,11 +4,11 @@
 
 ## Usage
 
-1.⁠ ⁠⁠Install Fiji/ImageJ (recommended: v1.54p)
-2.⁠ ⁠⁠Download the macro: vEDS_Wand_VALIDATE_Diameter_MajorMinor_ELLIPSE_154p.ijm
-3.⁠ ⁠⁠⁠Open Fiji and install the macro: Plugins → Macros → Install…
-4.⁠ ⁠⁠⁠Confirm shortcut installation: Plugins → Shortcuts → List Shortcuts
-5.⁠ ⁠⁠⁠Press lowercase q to run the macro after ROI selection.
+1. Install Fiji/ImageJ (recommended: v1.54p)
+2. Download the macro: vEDS_Wand_VALIDATE_Diameter_MajorMinor_ELLIPSE_154p.ijm
+3. Open Fiji and install the macro: Plugins → Macros → Install…
+4. ⁠⁠⁠Confirm shortcut installation: Plugins → Shortcuts → List Shortcuts
+5. Press lowercase q to run the macro after ROI selection.
 
 ## Associated Publication
 
